@@ -10,7 +10,7 @@
     "es": "82.98.134.10",
     "it": "79.137.44.85"
   },
-  "all": false,
+  "all": true,
   "group": "genre",
   "regionalize": false,
   "excludeGroups": false,
